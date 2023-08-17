@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Proyecto2PasantiaDGII", "Proyecto2PasantiaDGII\Proyecto2PasantiaDGII.dwproj", "{B890EC45-396B-4747-A84D-66CF18FC5229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B890EC45-396B-4747-A84D-66CF18FC5229}.Development|Default.ActiveCfg = Development
+		{B890EC45-396B-4747-A84D-66CF18FC5229}.Development|Default.Build.0 = Development
+		{B890EC45-396B-4747-A84D-66CF18FC5229}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {297E8D8F-419D-4FDD-8065-9B5A9042179D}
+	EndGlobalSection
+EndGlobal
